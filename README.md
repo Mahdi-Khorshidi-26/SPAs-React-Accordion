@@ -1,3 +1,7 @@
+
+![accordion](https://github.com/Mahdi-Khorshidi-26/SPAs-React-Accordion/assets/150541211/e838fad8-33e0-4efc-ab0a-0bf15eb959f3)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
